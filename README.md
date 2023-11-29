@@ -6,21 +6,27 @@ Von November 2022 bis Juni 2023 war ich Teil des Projektes Simulierte Welten des
 
 <img src="Gifs/1970.gif">
 
-<gif src="Gifs/2099.gif">
+<img src="Gifs/2099.gif">
 
-### Temperaturen nach Höhe und Längengrad im Verlauf der Jahre
+## Temperaturen im Verlauf der Jahre
 
-<gif src="Gifs/Jahre.gif">
+<img src="Gifs/Jahre.gif">
 
+<img src="Gifs/Jahrzehnte.gif">
 
+## Differenz in der Temperatur zu 1980
 
-### Temperatur nach Höhe
+<img src="Gifs/Differenzen.gif">
+
+<img src="Gifs/Differenzen-Jahrzehnte.gif">
+
+## Temperatur nach Höhe
 
 <img src="Graphen/hoehen_1980.png">
 
 <img src="Graphen/hoehen_2020.png">
 
-### Temperaturverlauf der verschiedenen Höhen
+## Temperaturverlauf der verschiedenen Höhen
 
 <img src="Graphen/trends_hoehe/oberflaeche.png">
 
@@ -30,7 +36,7 @@ Von November 2022 bis Juni 2023 war ich Teil des Projektes Simulierte Welten des
 
 <img src="Graphen/trends_hoehe/mesosphaere.png">
 
-### Temperaturverlauf der verschiedenen Klimazonen
+## Temperaturverlauf der verschiedenen Klimazonen
 
 <img src="Graphen/trends_breiten/nordpol.png">
 
